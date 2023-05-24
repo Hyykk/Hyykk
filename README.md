@@ -1,14 +1,17 @@
 
-**Interest**
+Interest
+========
 *Deep Learning
 *Natural Language Processing
 *Computer Vision
 *Microprocessor
 
-**Education**
+Education
+=========
 * Kwangwoon University Robotics (2020 ~ current)
 
-**Language**
+Language
+========
 *Java
 *C++
 *Python
