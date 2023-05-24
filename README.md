@@ -1,24 +1,24 @@
 
 Interest
 ========
-*Deep Learning
+  *Deep Learning
 
-*Natural Language Processing
+  *Natural Language Processing
 
-*Computer Vision
+  *Computer Vision
 
-*Microprocessor
+  *Microprocessor
 
 Education
 =========
-* Kwangwoon University Robotics (2020 ~ current)
+  * Kwangwoon University Robotics (2020 ~ current)
 
 Language
 ========
-*Java
+  *Java
 
-*C++
+  *C++
 
-*Python
+  *Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyykk&layout=compact)](https://github.com/Hyykk/github-readme-stats)
