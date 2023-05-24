@@ -2,8 +2,11 @@
 Interest
 ========
 *Deep Learning
+
 *Natural Language Processing
+
 *Computer Vision
+
 *Microprocessor
 
 Education
@@ -13,7 +16,9 @@ Education
 Language
 ========
 *Java
+
 *C++
+
 *Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyykk&layout=compact)](https://github.com/Hyykk/github-readme-stats)
