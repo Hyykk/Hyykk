@@ -21,4 +21,4 @@ Language
 
   * Python
   * 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyykk&layout=compact)](https://github.com/Hyykk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyykk&layout=compact&hide=Jupyter_Notebook)](https://github.com/Hyykk/github-readme-stats)
