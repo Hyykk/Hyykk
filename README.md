@@ -9,7 +9,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <ul>
             <li>Deep Learning</li>
-            <li>Commputer Vision</li>
+            <li>Computer Vision</li>
             <li>Embedded Systems</li>
             <li>Microprocessor</li>
         </ul>
